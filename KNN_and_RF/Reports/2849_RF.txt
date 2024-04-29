@@ -1,0 +1,28 @@
+
+Predictors: 
+['friends_count', 'statuses_count', 'total_media_count', 'average_mentions_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				955
+IE Total:				1666
+IE Percent Correct:		0.5732292917166867
+
+NS Correct:				1238
+NS Total:				1666
+NS Percent Correct:		0.7430972388955582
+
+TF Correct:				897
+TF Total:				1666
+TF Percent Correct:		0.5384153661464586
+
+JP Correct:				849
+JP Total:				1666
+JP Percent Correct:		0.5096038415366146
+

@@ -1,0 +1,28 @@
+
+Predictors: 
+['friends_count', 'listed_count', 'average_hashtag_count', 'average_mentions_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				939
+IE Total:				1666
+IE Percent Correct:		0.563625450180072
+
+NS Correct:				1241
+NS Total:				1666
+NS Percent Correct:		0.7448979591836735
+
+TF Correct:				944
+TF Total:				1666
+TF Percent Correct:		0.5666266506602641
+
+JP Correct:				831
+JP Total:				1666
+JP Percent Correct:		0.49879951980792314
+

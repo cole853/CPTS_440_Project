@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'favourites_count', 'total_favorite_count', 'average_media_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				913
+IE Total:				1666
+IE Percent Correct:		0.5480192076830732
+
+NS Correct:				1241
+NS Total:				1666
+NS Percent Correct:		0.7448979591836735
+
+TF Correct:				935
+TF Total:				1666
+TF Percent Correct:		0.5612244897959183
+
+JP Correct:				799
+JP Total:				1666
+JP Percent Correct:		0.47959183673469385
+

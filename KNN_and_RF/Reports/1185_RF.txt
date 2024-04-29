@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'total_url_count', 'average_tweet_length', 'average_url_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				967
+IE Total:				1666
+IE Percent Correct:		0.5804321728691476
+
+NS Correct:				1234
+NS Total:				1666
+NS Percent Correct:		0.7406962785114045
+
+TF Correct:				920
+TF Total:				1666
+TF Percent Correct:		0.5522208883553421
+
+JP Correct:				793
+JP Total:				1666
+JP Percent Correct:		0.4759903961584634
+

@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'number_of_quoted_statuses', 'average_tweet_length', 'average_favorite_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				1009
+IE Total:				1666
+IE Percent Correct:		0.6056422569027611
+
+NS Correct:				1236
+NS Total:				1666
+NS Percent Correct:		0.7418967587034814
+
+TF Correct:				956
+TF Total:				1666
+TF Percent Correct:		0.5738295318127251
+
+JP Correct:				825
+JP Total:				1666
+JP Percent Correct:		0.4951980792316927
+

@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'total_media_count', 'average_retweet_count', 'average_favorite_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				900
+IE Total:				1666
+IE Percent Correct:		0.5402160864345739
+
+NS Correct:				1235
+NS Total:				1666
+NS Percent Correct:		0.741296518607443
+
+TF Correct:				957
+TF Total:				1666
+TF Percent Correct:		0.5744297719087635
+
+JP Correct:				812
+JP Total:				1666
+JP Percent Correct:		0.48739495798319327
+

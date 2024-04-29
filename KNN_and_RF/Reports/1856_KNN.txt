@@ -1,0 +1,26 @@
+
+Predictors: 
+['followers_count', 'statuses_count', 'total_url_count', 'total_media_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				946
+IE Total:				1666
+IE Percent Correct:		0.5678271308523409
+
+NS Correct:				1223
+NS Total:				1666
+NS Percent Correct:		0.734093637454982
+
+TF Correct:				849
+TF Total:				1666
+TF Percent Correct:		0.5096038415366146
+
+JP Correct:				798
+JP Total:				1666
+JP Percent Correct:		0.4789915966386555
+

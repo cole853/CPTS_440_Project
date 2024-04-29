@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'friends_count', 'average_tweet_length', 'average_mentions_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				980
+IE Total:				1666
+IE Percent Correct:		0.5882352941176471
+
+NS Correct:				1232
+NS Total:				1666
+NS Percent Correct:		0.7394957983193278
+
+TF Correct:				902
+TF Total:				1666
+TF Percent Correct:		0.5414165666266506
+
+JP Correct:				798
+JP Total:				1666
+JP Percent Correct:		0.4789915966386555
+

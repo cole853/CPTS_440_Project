@@ -1,0 +1,28 @@
+
+Predictors: 
+['friends_count', 'number_of_quoted_statuses', 'total_media_count', 'average_retweet_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				1011
+IE Total:				1666
+IE Percent Correct:		0.6068427370948379
+
+NS Correct:				1233
+NS Total:				1666
+NS Percent Correct:		0.7400960384153662
+
+TF Correct:				942
+TF Total:				1666
+TF Percent Correct:		0.5654261704681873
+
+JP Correct:				798
+JP Total:				1666
+JP Percent Correct:		0.4789915966386555
+

@@ -1,0 +1,26 @@
+
+Predictors: 
+['favourites_count', 'total_media_count', 'average_favorite_count', 'average_mentions_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				942
+IE Total:				1666
+IE Percent Correct:		0.5654261704681873
+
+NS Correct:				1237
+NS Total:				1666
+NS Percent Correct:		0.7424969987995198
+
+TF Correct:				876
+TF Total:				1666
+TF Percent Correct:		0.5258103241296519
+
+JP Correct:				762
+JP Total:				1666
+JP Percent Correct:		0.45738295318127253
+

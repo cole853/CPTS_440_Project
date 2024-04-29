@@ -1,0 +1,26 @@
+
+Predictors: 
+['statuses_count', 'number_of_quoted_statuses', 'average_favorite_count', 'average_mentions_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				902
+IE Total:				1666
+IE Percent Correct:		0.5414165666266506
+
+NS Correct:				1220
+NS Total:				1666
+NS Percent Correct:		0.7322929171668667
+
+TF Correct:				877
+TF Total:				1666
+TF Percent Correct:		0.5264105642256903
+
+JP Correct:				801
+JP Total:				1666
+JP Percent Correct:		0.4807923169267707
+

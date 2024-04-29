@@ -1,0 +1,26 @@
+
+Predictors: 
+['friends_count', 'total_retweet_count', 'total_favorite_count', 'average_retweet_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				932
+IE Total:				1666
+IE Percent Correct:		0.5594237695078031
+
+NS Correct:				1220
+NS Total:				1666
+NS Percent Correct:		0.7322929171668667
+
+TF Correct:				843
+TF Total:				1666
+TF Percent Correct:		0.5060024009603842
+
+JP Correct:				784
+JP Total:				1666
+JP Percent Correct:		0.47058823529411764
+

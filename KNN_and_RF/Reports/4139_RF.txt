@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'total_mentions_count', 'total_media_count', 'average_url_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				900
+IE Total:				1666
+IE Percent Correct:		0.5402160864345739
+
+NS Correct:				1243
+NS Total:				1666
+NS Percent Correct:		0.7460984393757503
+
+TF Correct:				925
+TF Total:				1666
+TF Percent Correct:		0.5552220888355343
+
+JP Correct:				811
+JP Total:				1666
+JP Percent Correct:		0.48679471788715484
+

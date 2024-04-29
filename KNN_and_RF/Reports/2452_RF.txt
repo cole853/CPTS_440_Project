@@ -1,0 +1,28 @@
+
+Predictors: 
+['followers_count', 'average_favorite_count', 'average_hashtag_count', 'average_mentions_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				962
+IE Total:				1666
+IE Percent Correct:		0.5774309723889556
+
+NS Correct:				1245
+NS Total:				1666
+NS Percent Correct:		0.7472989195678271
+
+TF Correct:				921
+TF Total:				1666
+TF Percent Correct:		0.5528211284513805
+
+JP Correct:				828
+JP Total:				1666
+JP Percent Correct:		0.4969987995198079
+

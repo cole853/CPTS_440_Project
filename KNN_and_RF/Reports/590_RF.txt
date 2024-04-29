@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'favourites_count', 'total_hashtag_count', 'average_hashtag_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				937
+IE Total:				1666
+IE Percent Correct:		0.5624249699879952
+
+NS Correct:				1233
+NS Total:				1666
+NS Percent Correct:		0.7400960384153662
+
+TF Correct:				943
+TF Total:				1666
+TF Percent Correct:		0.5660264105642256
+
+JP Correct:				813
+JP Total:				1666
+JP Percent Correct:		0.4879951980792317
+

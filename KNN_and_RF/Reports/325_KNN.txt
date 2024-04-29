@@ -1,0 +1,26 @@
+
+Predictors: 
+['verified', 'friends_count', 'total_media_count', 'average_tweet_length']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				952
+IE Total:				1666
+IE Percent Correct:		0.5714285714285714
+
+NS Correct:				1223
+NS Total:				1666
+NS Percent Correct:		0.734093637454982
+
+TF Correct:				838
+TF Total:				1666
+TF Percent Correct:		0.503001200480192
+
+JP Correct:				779
+JP Total:				1666
+JP Percent Correct:		0.46758703481392555
+

@@ -1,0 +1,28 @@
+
+Predictors: 
+['total_url_count', 'average_hashtag_count', 'average_url_count', 'average_url_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				980
+IE Total:				1666
+IE Percent Correct:		0.5882352941176471
+
+NS Correct:				1237
+NS Total:				1666
+NS Percent Correct:		0.7424969987995198
+
+TF Correct:				898
+TF Total:				1666
+TF Percent Correct:		0.539015606242497
+
+JP Correct:				830
+JP Total:				1666
+JP Percent Correct:		0.49819927971188477
+

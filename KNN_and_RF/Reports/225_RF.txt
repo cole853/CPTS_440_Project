@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'friends_count', 'statuses_count', 'number_of_quoted_statuses']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				946
+IE Total:				1666
+IE Percent Correct:		0.5678271308523409
+
+NS Correct:				1241
+NS Total:				1666
+NS Percent Correct:		0.7448979591836735
+
+TF Correct:				890
+TF Total:				1666
+TF Percent Correct:		0.5342136854741897
+
+JP Correct:				848
+JP Total:				1666
+JP Percent Correct:		0.5090036014405762
+

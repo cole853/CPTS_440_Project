@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'statuses_count', 'number_of_quoted_statuses', 'average_hashtag_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				902
+IE Total:				1666
+IE Percent Correct:		0.5414165666266506
+
+NS Correct:				1239
+NS Total:				1666
+NS Percent Correct:		0.7436974789915967
+
+TF Correct:				862
+TF Total:				1666
+TF Percent Correct:		0.517406962785114
+
+JP Correct:				867
+JP Total:				1666
+JP Percent Correct:		0.5204081632653061
+

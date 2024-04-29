@@ -1,0 +1,26 @@
+
+Predictors: 
+['verified', 'total_url_count', 'average_favorite_count', 'average_hashtag_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				923
+IE Total:				1666
+IE Percent Correct:		0.5540216086434574
+
+NS Correct:				1235
+NS Total:				1666
+NS Percent Correct:		0.741296518607443
+
+TF Correct:				879
+TF Total:				1666
+TF Percent Correct:		0.5276110444177671
+
+JP Correct:				821
+JP Total:				1666
+JP Percent Correct:		0.492797118847539
+

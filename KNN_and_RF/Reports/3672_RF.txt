@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'statuses_count', 'average_tweet_length', 'average_mentions_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				873
+IE Total:				1666
+IE Percent Correct:		0.5240096038415366
+
+NS Correct:				1245
+NS Total:				1666
+NS Percent Correct:		0.7472989195678271
+
+TF Correct:				915
+TF Total:				1666
+TF Percent Correct:		0.5492196878751501
+
+JP Correct:				874
+JP Total:				1666
+JP Percent Correct:		0.524609843937575
+

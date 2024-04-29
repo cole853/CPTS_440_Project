@@ -1,0 +1,26 @@
+
+Predictors: 
+['friends_count', 'listed_count', 'statuses_count', 'average_tweet_length']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				914
+IE Total:				1666
+IE Percent Correct:		0.5486194477791116
+
+NS Correct:				1220
+NS Total:				1666
+NS Percent Correct:		0.7322929171668667
+
+TF Correct:				834
+TF Total:				1666
+TF Percent Correct:		0.5006002400960384
+
+JP Correct:				831
+JP Total:				1666
+JP Percent Correct:		0.49879951980792314
+

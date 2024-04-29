@@ -1,0 +1,28 @@
+
+Predictors: 
+['listed_count', 'total_favorite_count', 'total_hashtag_count', 'average_tweet_length']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				883
+IE Total:				1666
+IE Percent Correct:		0.5300120048019208
+
+NS Correct:				1243
+NS Total:				1666
+NS Percent Correct:		0.7460984393757503
+
+TF Correct:				950
+TF Total:				1666
+TF Percent Correct:		0.5702280912364946
+
+JP Correct:				854
+JP Total:				1666
+JP Percent Correct:		0.5126050420168067
+

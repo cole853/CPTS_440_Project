@@ -1,0 +1,28 @@
+
+Predictors: 
+['friends_count', 'number_of_retweeted_statuses', 'total_mentions_count', 'average_tweet_length']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				1002
+IE Total:				1666
+IE Percent Correct:		0.6014405762304922
+
+NS Correct:				1235
+NS Total:				1666
+NS Percent Correct:		0.741296518607443
+
+TF Correct:				919
+TF Total:				1666
+TF Percent Correct:		0.5516206482593037
+
+JP Correct:				814
+JP Total:				1666
+JP Percent Correct:		0.4885954381752701
+

@@ -1,0 +1,26 @@
+
+Predictors: 
+['number_of_quoted_statuses', 'average_tweet_length', 'average_retweet_count', 'average_hashtag_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				963
+IE Total:				1666
+IE Percent Correct:		0.578031212484994
+
+NS Correct:				1223
+NS Total:				1666
+NS Percent Correct:		0.734093637454982
+
+TF Correct:				845
+TF Total:				1666
+TF Percent Correct:		0.507202881152461
+
+JP Correct:				796
+JP Total:				1666
+JP Percent Correct:		0.4777911164465786
+

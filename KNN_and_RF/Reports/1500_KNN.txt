@@ -1,0 +1,26 @@
+
+Predictors: 
+['followers_count', 'friends_count', 'average_mentions_count', 'average_media_count']
+n_neighbors:			10
+weights:				uniform
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				911
+IE Total:				1666
+IE Percent Correct:		0.5468187274909964
+
+NS Correct:				1252
+NS Total:				1666
+NS Percent Correct:		0.751500600240096
+
+TF Correct:				850
+TF Total:				1666
+TF Percent Correct:		0.5102040816326531
+
+JP Correct:				806
+JP Total:				1666
+JP Percent Correct:		0.4837935174069628
+
