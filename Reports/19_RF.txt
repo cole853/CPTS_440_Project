@@ -1,0 +1,28 @@
+
+Predictors: 
+['verified', 'followers_count', 'listed_count', 'favourites_count']
+
+n_estimators:			100
+min_samples_split:		350
+random_state:			1
+
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				924
+IE Total:				1666
+IE Percent Correct:		0.5546218487394958
+
+NS Correct:				1252
+NS Total:				1666
+NS Percent Correct:		0.751500600240096
+
+TF Correct:				959
+TF Total:				1666
+TF Percent Correct:		0.5756302521008403
+
+JP Correct:				778
+JP Total:				1666
+JP Percent Correct:		0.4669867947178872
+
