@@ -1,15 +1,22 @@
 # KNN And Random Forest Documentation
 
-libraries used:
+**libraries used:**
+
 IPython
+
 pandas
+
 numpy
+
 sklearn
+
 time
+
 os
+
 itertools
 
-Files used:
+**Files used:**
 
 mbti_labels.csv this file contains the meyers briggs personality score for each user and their ID number
 
