@@ -1,0 +1,33 @@
+
+Predictors: 
+['verified', 'followers_count', 'favourites_count', 'total_hashtag_count']
+
+Hidden Layer Sizes:			(50,)
+Activation Function:			relu
+Solver:					adam
+Alpha:					0.0001
+Batch Size:				auto
+Learning Rate:				constant
+Learning Rate Init:			0.001
+Max Iterations:				100
+Random State:				None
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				1033
+IE Total:				1666
+IE Percent Correct:		0.620048019207683
+
+NS Correct:				1235
+NS Total:				1666
+NS Percent Correct:		0.741296518607443
+
+TF Correct:				958
+TF Total:				1666
+TF Percent Correct:		0.575030012004802
+
+JP Correct:				750
+JP Total:				1666
+JP Percent Correct:		0.45018007202881155
+

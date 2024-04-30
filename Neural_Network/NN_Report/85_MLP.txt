@@ -1,0 +1,33 @@
+
+Predictors: 
+['verified', 'followers_count', 'number_of_retweeted_statuses', 'total_retweet_count']
+
+Hidden Layer Sizes:			(50,)
+Activation Function:			relu
+Solver:					adam
+Alpha:					0.0001
+Batch Size:				auto
+Learning Rate:				constant
+Learning Rate Init:			0.001
+Max Iterations:				100
+Random State:				None
+Confidence:				0.5
+-----------------------------------------------------
+
+-----------------------------------------------------
+IE Correct:				671
+IE Total:				1666
+IE Percent Correct:		0.4027611044417767
+
+NS Correct:				1234
+NS Total:				1666
+NS Percent Correct:		0.7406962785114045
+
+TF Correct:				729
+TF Total:				1666
+TF Percent Correct:		0.4375750300120048
+
+JP Correct:				733
+JP Total:				1666
+JP Percent Correct:		0.4399759903961585
+
