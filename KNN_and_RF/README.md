@@ -10,7 +10,9 @@ os
 itertools
 
 Files used:
+
 mbti_labels.csv this file contains the meyers briggs personality score for each user and their ID number
+
 user_info.csv this file contains the user info and ID number for each user.
 
 # MBTI_Data documentation
